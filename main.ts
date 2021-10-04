@@ -6,11 +6,11 @@ while (true) {
         . . . . .
         . . . . .
         `)
-    basic.pause(20)
+    basic.pause(100)
     basic.showIcon(IconNames.SmallSquare)
-    basic.pause(20)
+    basic.pause(100)
     basic.showIcon(IconNames.Square)
-    basic.pause(20)
+    basic.pause(100)
     basic.showIcon(IconNames.SmallSquare)
     basic.pause(20)
 }
